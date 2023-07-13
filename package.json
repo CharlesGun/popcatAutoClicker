@@ -1,0 +1,23 @@
+{
+  "name": "popcatautoclicker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CharlesGun/popcatAutoClicker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CharlesGun/popcatAutoClicker/issues"
+  },
+  "homepage": "https://github.com/CharlesGun/popcatAutoClicker#readme",
+  "dependencies": {
+    "puppeteer": "^20.8.1"
+  }
+}
